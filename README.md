@@ -17,4 +17,4 @@ There are total 5 notebooks in this series listed as following:
 4. Classification keypoint output using classical ML >> https://www.kaggle.com/suradechk/04-classification-using-keypoints-output-v2
 5. Classification keypoint output using ANN >> https://www.kaggle.com/suradechk/05-classification-using-ann-v2
 
-After completing model building steps with the above 5 notebooks, we have created our own unique RSI prevention software prototype using key loggers and webcam with the Jupyter notebook.  The ipynb file is uploaded to this github repository.
+After completing model building steps with the above 5 notebooks, we have created our own unique RSI prevention software prototype using key loggers and webcam with the Jupyter notebook.  The ipynb file is uploaded to this github repository.  There can be version conflict with different python libraries so I have uploaded requirement.txt file in the link to set up virtual environment also.
