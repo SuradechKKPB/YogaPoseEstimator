@@ -6,9 +6,9 @@ Keywords : Yoga, posture, classification, movenet, keypoint
 
 Data Collection: We took some images from open source yoga posture dataset from three following sites and applied basic data cleaning manually (e.g. remove corrupted images, remove misclassified yoga posture images).
 
-Open source dataset from https://www.kaggle.com/general/192938
-3D synthetic dataset from https://laurencemoroney.com/2021/08/23/yogapose-dataset.html
-Yoga-82 dataset from https://sites.google.com/view/yoga-82/home
+1. Open source dataset from https://www.kaggle.com/general/192938
+2. 3D synthetic dataset from https://laurencemoroney.com/2021/08/23/yogapose-dataset.html
+3. Yoga-82 dataset from https://sites.google.com/view/yoga-82/home
 
 There are total 5 notebooks in this series listed as following:
 1. EDA and image augmentation note books >> https://www.kaggle.com/suradechk/01-eda-and-image-augmentation-v2
